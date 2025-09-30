@@ -7,7 +7,7 @@ This research presents a deep learning-based vehicle detection system using Conv
 ![Accuracy](https://img.shields.io/badge/Accuracy-98.15%25-brightgreen)
 ![Dataset](https://img.shields.io/badge/Dataset-KITTI-orange)
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -18,7 +18,7 @@ This research presents a deep learning-based vehicle detection system using Conv
 | **Test Loss** | 0.0512 |
 | **Inference Speed** | 65+ FPS |
 
-## 🏆 Comparative Analysis
+##  Comparative Analysis
 
 | Model | Accuracy | Parameters | Inference Speed |
 |-------|----------|------------|-----------------|
@@ -27,7 +27,7 @@ This research presents a deep learning-based vehicle detection system using Conv
 | VGG-16 | 92.8% | 138M | 30 FPS |
 | MobileNet | 91.5% | 4.2M | 62 FPS |
 
-## 🚀 Key Features
+##  Key Features
 
 - **High Accuracy**: 98.15% classification accuracy on KITTI dataset
 - **Real-Time Performance**: 65+ FPS inference capability
